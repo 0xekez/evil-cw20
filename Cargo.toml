@@ -1,5 +1,5 @@
 [workspace]
-members = ["cw20-base", "cw20-no-instantiate"]
+members = ["cw20-base", "cw20-no-instantiate", "cw20-silent-instantiate-fail"]
 
 [profile.release]
 rpath = false
